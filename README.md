@@ -34,28 +34,35 @@ Perform data transformations or aggregations as necessary<br>
 
 # **Data Analysis**
 Exploratory Data Analysis<br>
-  ●	  Visualize the distribution of rental prices and economic factors
-  ●  	Identify trends, patterns, and outliers
-  ●  	Calculate summary statistics
+  ●	  Visualize the distribution of rental prices and economic factors<br>
+  ●  	Identify trends, patterns, and outliers<br>
+  ●  	Calculate summary statistics<br>
 
 Correlation Analysis<br>
-  ●   Calculate correlation coefficients between economic factors and rental prices
-  ●	  Conduct statistical tests to assess the significance
-  ●	  Visualize correlations using scatter plots or correlation matrices
+  ●   Calculate correlation coefficients between economic factors and rental prices<br>
+  ●	  Conduct statistical tests to assess the significance<br>
+  ●	  Visualize correlations using scatter plots or correlation matrices<br>
 
-Neighborhood Analysis
-  ●	  Segment data by neighborhoods or zip codes
-  ●	  Compare rental price fluctuations based on industry growth
-  ●	  Analyze the relationship between short-term rental density and long-term rental prices
+Neighborhood Analysis<br>
+  ●	  Segment data by neighborhoods or zip codes<br>
+  ●	  Compare rental price fluctuations based on industry growth<br>
+  ●	  Analyze the relationship between short-term rental density and long-term rental prices<br>
 
-Macro Economic Factors Analysis
-  ●	  Investigate the impact of macroeconomic factors on rental prices
-  ●	  Explore the correlation between factors such as interest rates and consumer confidence
-  ●  	Assess the predictive power of these factors for rental price movements
+Macro Economic Factors Analysis<br>
+  ●	  Investigate the impact of macroeconomic factors on rental prices<br>
+  ●	  Explore the correlation between factors such as interest rates and consumer confidence<br>
+  ●  	Assess the predictive power of these factors for rental price movements<br>
 
-Predictive Modeling (attempt)
-  ●	  Choose an appropriate modeling technique (e.g., regression, time series analysis)
-  ●	  Build predictive models using economic factors as independent variables
+Predictive Modeling (attempt) <br>
+  ●	  Choose an appropriate modeling technique (e.g., regression, time series analysis)<br>
+  ●	  Build predictive models using economic factors as independent variables<br>
+
+# **Data Visualizations**
+•	A line chart showing the annual change in GDP and the annual percentage change in rental prices over a specific time period<br>
+•	A bar chart showing the rental price fluctuations between neighborhoods with different levels of industry growth in Nashville<br>
+•	A scatter plot showing the relationship between the density of short-term rentals and the average long-term rental prices in different neighborhoods of Nashville<br>
+•	A pie chart showing the percentage of rental price increases that can be attributed to different industries or sectors<br>
+•	A bubble chart showing the relationship between macroeconomic factors (e.g., interest rates, consumer confidence) and rental prices in Nashville<br>
 
 # **Key Findings & Insights**
 At this stage, the Lord only knows! 
