@@ -58,11 +58,13 @@ Predictive Modeling (attempt) <br>
   ●	  Build predictive models using economic factors as independent variables<br>
 
 # **Data Visualizations**
-•	A line chart showing the annual change in GDP and the annual percentage change in rental prices over a specific time period<br>
+•	A time series plot showing the correlation between annual % change in GDP and the annual percentage change in rental prices over a specific time period<br>
 •	A bar chart showing the rental price fluctuations between neighborhoods with different levels of industry growth in Nashville<br>
 •	A scatter plot showing the relationship between the density of short-term rentals and the average long-term rental prices in different neighborhoods of Nashville<br>
 •	A pie chart showing the percentage of rental price increases that can be attributed to different industries or sectors<br>
 •	A bubble chart showing the relationship between macroeconomic factors (e.g., interest rates, consumer confidence) and rental prices in Nashville<br>
+
+https://www.canva.com/design/DAFlwOfbvms/LOVyFlfwDJe0cNmEzYxp5A/edit?utm_content=DAFlwOfbvms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # **Key Findings & Insights**
 At this stage, the Lord only knows! 
