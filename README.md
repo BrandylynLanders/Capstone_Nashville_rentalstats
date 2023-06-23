@@ -64,7 +64,7 @@ Predictive Modeling (attempt) <br>
 •	A pie chart showing the percentage of rental price increases that can be attributed to different industries or sectors<br>
 •	A bubble chart showing the relationship between macroeconomic factors (e.g., interest rates, consumer confidence) and rental prices in Nashville<br>
 
-https://www.canva.com/design/DAFlwOfbvms/LOVyFlfwDJe0cNmEzYxp5A/edit?utm_content=DAFlwOfbvms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFmmOWi_FI/y4QLx7zK1IacA3tTO7dnIQ/edit?utm_content=DAFmmOWi_FI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # **Key Findings & Insights**
 At this stage, the Lord only knows! 
